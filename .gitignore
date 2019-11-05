@@ -43,15 +43,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-#folders
-Library
-TinyExport
-TinyExport
-Logs
-*.ts.meta
-.vscode
-tsconfig.json
-
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
