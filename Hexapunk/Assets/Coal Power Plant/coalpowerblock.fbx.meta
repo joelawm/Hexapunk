@@ -1,23 +1,51 @@
 fileFormatVersion: 2
-guid: b49e2e6c6193cc841b221be2b7ecc13b
+guid: 6913413128f6c57499918bb56e9af9f8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: BASE BLOCK
-    100002: //RootNode
-    100004: ph_cooler
-    400000: BASE BLOCK
-    400002: //RootNode
-    400004: ph_cooler
-    2100000: PH_DOORS.001
-    2100002: PH_BLOCK BASE MAT
-    2100004: PH_LED INCIDATOR
-    2300000: BASE BLOCK
-    2300002: ph_cooler
-    3300000: BASE BLOCK
-    3300002: ph_cooler
-    4300000: ph_cooler
-    4300002: BASE BLOCK
+    100000: //RootNode
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cylinder.002
+    100010: Cylinder.004
+    100012: Mball.006
+    400000: //RootNode
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cylinder.002
+    400010: Cylinder.004
+    400012: Mball.006
+    2100000: No Name
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cylinder.002
+    2300008: Cylinder.004
+    2300010: Mball.006
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cylinder.002
+    3300008: Cylinder.004
+    3300010: Mball.006
+    4300000: Cube.002
+    4300002: Cube.001
+    4300004: Mball.006
+    4300006: Cube
+    4300008: Cylinder.004
+    4300010: Cylinder.002
+    7400000: Cube.002|Cube.001Action.001
+    7400002: Cube.002|Cube.001Action.002
+    7400004: Cube.002|CubeAction
+    7400006: Cube.002|Cylinder.001Action
+    7400008: Cube.001|Cube.001Action.001
+    7400010: Cube.001|Cube.001Action.002
+    7400012: Cube.001|CubeAction
+    7400014: Cube.001|Cylinder.001Action
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -46,7 +74,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -70,8 +98,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -98,7 +126,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
